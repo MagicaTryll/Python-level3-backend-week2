@@ -1,14 +1,13 @@
-# Quiz og baller som danser i OOP 
 ## Til bruk i undervisning level 3 backend Python
 
 ## Oppgave 
-##  I filen OPPGAVE_HUMAN ligger et objekt som heter Bob som eksempel.
+###  I filen OPPGAVE_HUMAN ligger et objekt som heter Bob som eksempel.
 ### 1. Lag flere objekter.
 
-## Det er laget flere metoder som f.eks. snakk() eller gå(). 
-## 2. Lag flere metoder som forteller hvilke interesser eller hobby objektene dine har. 
+### Det er laget flere metoder som f.eks. snakk() eller gå(). 
+### 2. Lag flere metoder som forteller hvilke interesser eller hobby objektene dine har. 
 
-
+## Filene under er lagt med for demo. Lek litt med dem og finn ut hvordan de er bygget opp.
 ### Quiz
 Først lages listen "spørsmålene" som tom. 
 Hvert spørsmål sendes gjennom klassen og output blir objekt som tuple-element i listen.
