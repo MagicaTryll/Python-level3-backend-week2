@@ -3,7 +3,7 @@
 ## Oppgave 
 ###  I filen OPPGAVE_HUMAN ligger et objekt som heter Bob som eksempel.
 ### 1. Lag flere objekter.
-
+#
 
 ### Det er laget flere metoder som f.eks. snakk() eller gå(). 
 ### 2. Lag en eller to metoder til som forteller hvilke interesser, hobby eller jobb objektene dine har.
