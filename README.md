@@ -8,6 +8,7 @@
 ### Det er laget flere metoder som f.eks. snakk() eller gå(). 
 ### 2. Lag en eller to metoder til som forteller hvilke interesser, hobby eller jobb objektene dine har.
 
+### *
 ## Filene under er lagt med for demo. Lek litt med dem og finn ut hvordan de er bygget opp.
 ### Quiz
 Først lages listen "spørsmålene" som tom. 
