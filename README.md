@@ -5,7 +5,7 @@
 ### 1. Lag flere objekter.
 
 ### Det er laget flere metoder som f.eks. snakk() eller gå(). 
-### 2. Lag flere metoder som forteller hvilke interesser eller hobby objektene dine har. 
+### 2. Lag flere en eller to metoder til som forteller hvilke interesser, hobby eller jobb objektene dine har.
 
 ## Filene under er lagt med for demo. Lek litt med dem og finn ut hvordan de er bygget opp.
 ### Quiz
@@ -28,6 +28,9 @@ En enkel fil for å demonstrere if og elif. Denne filen er kodet så enkelt at d
 
 ### Hexadale tallsystem
 Det startet med koden å formatere seistentallsystemet med f'string, og fortsatte med finurlige formatteringer av tall. Dette er lagt med for at dere kan teste ut. 
+
+
+# Lykke til! 😃😃
 
 
 
